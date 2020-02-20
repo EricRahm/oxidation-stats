@@ -1,0 +1,2 @@
+mozdownload>=1.26.0
+mozInstall>=2.0.0
